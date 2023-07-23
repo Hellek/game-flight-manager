@@ -1,10 +1,10 @@
-import { HomePage } from '@pages/HomePage'
+import { Game } from '@pages/Game'
 import NotFound from '@pages/NotFound'
 
 export const publicRoutes = {
   HomePage: {
     path: '/',
-    element: <HomePage />,
+    element: <Game />,
   },
   NotFound: {
     path: '*',
