@@ -2,12 +2,12 @@
 
 ### To do initial
 
-- [ ] Draw Terrain
+- [x] Draw Terrain
 - [ ] Draw cities
 - [ ] Draw plane as any shape
 - [ ] Draw plane flight path
 - [ ] Draw plane moving animation
-- [ ] Camera moving
+- [x] Camera moving
 
 ### To do backlog
 
