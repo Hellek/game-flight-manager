@@ -28,6 +28,7 @@ module.exports = {
     'plugin:effector/scope',
   ],
   rules: {
+    'no-console': 'off',
     'max-len': ['warn', {
       code: 120,
       ignoreComments: true,
