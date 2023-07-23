@@ -1,9 +1,7 @@
-export const Game = () => {
-  const gamePage = 'gamePage'
+import { Scene } from '@components/Scene'
 
-  return (
-    <div className="w-full relative">
-      {gamePage}
-    </div>
-  )
-}
+export const Game = () => (
+  <div className="w-full relative">
+    <Scene />
+  </div>
+)
