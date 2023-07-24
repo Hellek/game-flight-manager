@@ -3,7 +3,7 @@
 ### To do initial
 
 - [x] Draw Terrain
-- [ ] Draw cities
+- [x] Draw cities
 - [ ] Draw plane as any shape
 - [ ] Draw plane flight path
 - [ ] Draw plane moving animation
