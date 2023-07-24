@@ -1,5 +1,5 @@
 import { Box } from '@react-three/drei'
-import { Size } from './types'
+import { Size } from '../types'
 
 interface TerrainProps {
   size: Size
